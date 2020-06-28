@@ -1,5 +1,6 @@
 # FSXplorer Pro - Share Files Hassle Free
-
+### Sending and receiving of files in hassle-free way with fast speed!
+<br><br>
 <img src="images/logo.png?raw=true" alt="Client" width="500">
 
 ### Android App
