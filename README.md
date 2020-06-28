@@ -3,7 +3,7 @@
 <br><br>
 <img src="images/logo.png?raw=true" alt="Client" width="500">
 
-### Android App
+## Android App
 
 - It is unique lightweight app designed for faster, multiple and parallel file sharing purposes.
 - With this app you can now send and receive files over wifi or within a network with anyone or on any device.
