@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# FSXplorer Pro - Share Files Hassle Free
 
-You can use the [editor on GitHub](https://github.com/akanshSirohi/FSXplorer/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<img src="images/RemoteDeskLogo.png?raw=true" alt="Client" width="500">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Android App
 
-### Markdown
+- It is unique lightweight app designed for faster, multiple and parallel file sharing purposes.
+- With this app you can now send and receive files over wifi or within a network with anyone or on any device.
+- It is flexible and easy to use app.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> One of many ongoing projects so more features and app stability will be increased in next versions
 
-```markdown
-Syntax highlighted code block
+## Screenshots
 
-# Header 1
-## Header 2
-### Header 3
+<img src="images/App1.jpg?raw=true" alt="Client" height="600"> <img src="images/App2.jpg?raw=true" alt="Client" height="600">
 
-- Bulleted
-- List
+----
+## Installation
+The app is available оn Google's Play Market
 
-1. Numbered
-2. List
+### Free Version
+[![FSXplorer](https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.akansh.fileserversuitfree)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akanshSirohi/FSXplorer/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Paid Version
+[![FSXplorer Pro](https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.akansh.fileserversuit)
