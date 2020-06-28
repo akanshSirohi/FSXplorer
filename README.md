@@ -1,6 +1,6 @@
 # FSXplorer Pro - Share Files Hassle Free
 
-<img src="images/RemoteDeskLogo.png?raw=true" alt="Client" width="500">
+<img src="images/logo.png?raw=true" alt="Client" width="500">
 
 ### Android App
 
@@ -12,7 +12,8 @@
 
 ## Screenshots
 
-<img src="images/App1.jpg?raw=true" alt="Client" height="600"> <img src="images/App2.jpg?raw=true" alt="Client" height="600">
+<img src="images/screenshot_1.png?raw=true" alt="Screenshot 1" height="600"> <img src="images/screenshot_2.png?raw=true" alt="Screenshot 2" height="600"> <img src="images/screenshot_3.png?raw=true" alt="Screenshot 3" height="600"> <img src="images/screenshot_4.png?raw=true" alt="Screenshot 4" height="600"> <img src="images/screenshot_5.png?raw=true" alt="Screenshot 5" height="600"> <img src="images/screenshot_6.png?raw=true" alt="Screenshot 6" height="600">
+
 
 ----
 ## Installation
